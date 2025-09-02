@@ -1,0 +1,47 @@
+# Virtual environments
+venv/
+.venv/
+ENV/
+
+# Python cache/compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build and distribution
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+
+# Logs and coverage
+*.log
+.coverage*
+htmlcov/
+.pytest_cache/
+
+# Type checker caches
+.mypy_cache/
+.pyre/
+.pytype/
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment/config
+.env
+.env.*
+*.sqlite3
+
+# Other
+.cache/
+.scratch/
+
+
