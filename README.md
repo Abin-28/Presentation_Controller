@@ -1,4 +1,4 @@
-## Presentation Controller
+## SlideSense [Presentation Controller]
 
 A gesture‑controlled slide presenter with live speech‑to‑text and embedded camera preview. Use your hands to navigate slides, draw annotations, erase, and pinch‑zoom. The camera preview (with detection overlay) is shown at the top‑right of the slide, and the slide window opens in fullscreen automatically.
 
